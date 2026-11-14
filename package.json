@@ -1,0 +1,15 @@
+{
+  "name": "tinderapp",
+  "version": "1.0.0",
+  "description": "\"Develop by yogender",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yogendra",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5",
+    "node": "^27.0.0-alpha.0.1.0"
+  }
+}
